@@ -61,4 +61,8 @@ func main() {
 	fmt.Println(len(slyce))
 	fmt.Println(tabel4)
 
+	// Maps
+	fmt.Println(" **** MAPS ******")
+	fmt.Println(" Key value pairs. Delete entries. Use len function. Add by just adding new key/value. Exits with val, ok or so")
+	fmt.Println(" !Maps are way faster then arrays if bigger.")
 }
